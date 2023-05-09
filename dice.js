@@ -5,6 +5,4 @@ possibleChoices.addEventListener("click", function () {
 Math.floor(Math.random()* 6) + 1;
     }
 })
-for (let i = 0; i < 6; i++) {
-    var dice =
-}
+console.log()
